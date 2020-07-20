@@ -12,7 +12,6 @@
     { "id": 10, "idCategory": 1, "name": "Banh xeo", "price": 2000},
     { "id": 11, "idCategory": 1, "name": "Hoanh thanh", "price": 2000},
     { "id": 12, "idCategory": 1, "name": "Xoi", "price": 2000},
-    { "id": 13, "idCategory": 1, "name": "Pha lau", "price": 2000},
-    
+    { "id": 13, "idCategory": 1, "name": "Pha lau", "price": 2000}
   ]
 }
