@@ -91,4 +91,8 @@
   "price": "2000",
   "image": "BC"
   }
+  ],
+   "profile": {
+    "name": "typicode"
+  }
 }
