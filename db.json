@@ -1,17 +1,91 @@
 {
   "posts": [
-    { "id": 1, "idCategory": 1, "name": "Pizza", "price": 2000},
-    { "id": 2, "idCategory": 1, "name": "Com", "price": 2000},
-    { "id": 3, "idCategory": 1, "name": "Bun", "price": 2000},
-    { "id": 4, "idCategory": 1, "name": "Pho", "price": 2000},
-    { "id": 5, "idCategory": 1, "name": "Hu tieu", "price": 2000},
-    { "id": 6, "idCategory": 1, "name": "Com ga", "price": 2000},
-    { "id": 7, "idCategory": 1, "name": "Com suon", "price": 2000},
-    { "id": 8, "idCategory": 1, "name": "Banh mi", "price": 2000},
-    { "id": 9, "idCategory": 1, "name": "Banh canh", "price": 2000},
-    { "id": 10, "idCategory": 1, "name": "Banh xeo", "price": 2000},
-    { "id": 11, "idCategory": 1, "name": "Hoanh thanh", "price": 2000},
-    { "id": 12, "idCategory": 1, "name": "Xoi", "price": 2000},
-    { "id": 13, "idCategory": 1, "name": "Pha lau", "price": 2000}
-  ]
+    {
+  "id": 1,
+  "categoryId":1,
+  "name": "gold",
+  "price": 2000,
+  "image": "BC"
+  },
+   {
+  "id": 2,
+  "categoryId":1,
+  "name": "datto",
+  "price": 2000,
+  "image": "BC"
+  },
+   {
+  "id": 3,
+  "categoryId":1,
+  "name": "hihi",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 4,
+  "categoryId":1,
+  "name": "haha",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 5,
+  "categoryId":1,
+  "name": "huhu",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 6,
+  "categoryId":1,
+  "name": "hehe",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 7,
+  "categoryId":1,
+  "name": "huaha",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 8,
+  "categoryId":1,
+  "name": "gold",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 9,
+  "categoryId":1,
+  "name": "gold",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 10,
+  "categoryId":1,
+  "name": "gold",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 11,
+  "categoryId":1,
+  "name": "gold",
+  "price": 2000,
+  "image": "BC"
+  },
+  {
+  "id": 12,
+  "categoryId":1,
+  "name": "gold",
+  "price": 2000,
+  "image": "BC"
+  }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
